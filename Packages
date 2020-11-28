@@ -1,0 +1,103 @@
+Package: distinst
+Version: 0.3.2
+Architecture: amd64
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Installed-Size: 3680
+Depends: libdistinst (= 0.3.2)
+Filename: ./distinst-deb/distinst_0.3.2_amd64.deb
+Size: 999348
+MD5sum: dbb0b316088dde62e7527d711bafcda3
+SHA1: b1ebcd556932014df3c6326d63533eb0458096bd
+SHA256: 9907803fc12bd22540e871aa611c24b677ad770cf0b4d5abd830dab9fbeb6f49
+Section: admin
+Priority: optional
+Homepage: https://github.com/pop-os/distinst
+Description: Distribution Installer CLI
+
+Package: kloudos-installer
+Version: 0.01
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 5269
+Depends: gparted, libc6 (>= 2.14), libgee-0.8-2 (>= 0.20.0), libglib2.0-0 (>= 2.43.92), libgnomekbd8 (>= 3.6.0), libgranite5 (>= 0.5), libgtk-3-0 (>= 3.21.6), libpangocairo-1.0-0 (>= 1.14.0), libpwquality1 (>= 1.1.0)
+Recommends: kloudos-installer-session
+Filename: ./kloudos-installer-deb/kloudos-installer_0.01_amd64.deb
+Size: 4363528
+MD5sum: d9ceb0fdae85342991822285ad7fd090
+SHA1: 2a80db4b7bbd8c37e2f2502f53c7849e0f779ebc
+SHA256: dd0c6be8827e23763a64ad9133f0bf5ff3a8b22a08ac5fdcc31d878e6d5a21e3
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: kloudos Distribution installer.
+
+Package: kloudos-installer-casper
+Source: kloudos-installer
+Version: 0.01
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 13
+Depends: casper
+Filename: ./kloudos-installer-deb/kloudos-installer-casper_0.01_amd64.deb
+Size: 2256
+MD5sum: 9572e273eb724ba948bd4f2b6ab8504e
+SHA1: 5d35d21d06ecb7ccff7239b0e2384e3ea9dad7ff
+SHA256: 1921a238c23878f2e1b000fdab9f47eeb767a7b1824b6bb8652673a208b812d2
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: Autostart kloudos-installer in casper
+ Autostart kloudos-installer when running in a live system with casper
+
+Package: kloudos-installer-session
+Source: kloudos-installer
+Version: 0.01
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 19
+Depends: kloudos-installer
+Filename: ./kloudos-installer-deb/kloudos-installer-session_0.01_amd64.deb
+Size: 2856
+MD5sum: dec5710cf9a90f00d5f5ca4e159cf8a0
+SHA1: 6bc565a79ad963ffc8a93f96201c23f55a9f8dfa
+SHA256: a91c60be6609ee979b2c75d8c8b6a61a81d4c68c3e7ac4ae2a7a3f773ad9cd94
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: Dedicated installer session
+ Launches kloudos-installer in a dedicated session.
+
+Package: libdistinst
+Source: distinst
+Version: 0.3.2
+Architecture: amd64
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Installed-Size: 4916
+Depends: apt, btrfs-progs, coreutils, cryptsetup, dmsetup, dmraid, dosfstools, e2fsprogs, f2fs-tools, fatresize, gettext, grub2-common, kpartx, kpartx-boot, libparted-fs-resize0, locales, lvm2, mount, ntfs-3g, parted, rsync, squashfs-tools, systemd-container, util-linux, xfsprogs
+Filename: ./distinst-deb/libdistinst_0.3.2_amd64.deb
+Size: 1145732
+MD5sum: 4299f64ede0e7d3dde9fb33904562c0f
+SHA1: 20b94b818a40cfb701d8db603b41bb386f032352
+SHA256: 302ceb046214749c511b68eae8307654636ad251dac1f088e87121c8d51f2f38
+Section: admin
+Priority: optional
+Homepage: https://github.com/pop-os/distinst
+Description: Distribution Installer Library
+
+Package: libdistinst-dev
+Source: distinst
+Version: 0.3.2
+Architecture: amd64
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Installed-Size: 36
+Depends: libdistinst (= 0.3.2)
+Filename: ./distinst-deb/libdistinst-dev_0.3.2_amd64.deb
+Size: 6228
+MD5sum: ececd951e6c5e6c3dd7665cbdd7968cf
+SHA1: 399328d7fb1afe58dd2ee95175efecad92d1489f
+SHA256: 08e4538ec20cb565f39f241efa285262f039684ba9a806d7ccf955b712421925
+Section: admin
+Priority: optional
+Homepage: https://github.com/pop-os/distinst
+Description: Distribution Installer Development Files
+
