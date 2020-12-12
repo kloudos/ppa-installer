@@ -34,13 +34,13 @@ Package: kloudos-default-settings
 Version: 0.0.1
 Architecture: all
 Maintainer: Latha Guntaka <admin@kloudos.org>
-Installed-Size: 69
-Depends: dconf-gsettings-backend | gsettings-backend, base-files (>= 10), libglib2.0-bin, gnome-menus, gnupg, kloudos-session, software-properties-common, python3-repolib (>> 1.3.9)
+Installed-Size: 65
+Depends: dconf-gsettings-backend | gsettings-backend, base-files (>= 10), libglib2.0-bin, gnupg, software-properties-common
 Filename: ./kloudos-default-settings/kloudos-default-settings_0.0.1_all.deb
-Size: 16056
-MD5sum: 4ec27e2c394f5ac6a0493ed7c4a49e55
-SHA1: b29fc16d848f6a1a61677564a50bb02e38e6e71c
-SHA256: c4301f8f3cf1095f94d42e4152de205be857f30c45bb231ffd85527c5859b54f
+Size: 13316
+MD5sum: fc5492365dbdc34be7b24ae70cf3c087
+SHA1: 706f141ef749a6b87b7cfe1fe78c7f114ae2816d
+SHA256: a96a59ea3b5ca8be9820f048ea3d24a33108a88157b02d1d7ee75944eeebfbbb
 Section: x11
 Priority: optional
 Homepage: https://github.com/kloudos/default-settings
@@ -87,13 +87,13 @@ Source: kloudos-installer
 Version: 0.0.1
 Architecture: amd64
 Maintainer: Latha Guntaka <admin@kloudos.org>
-Installed-Size: 19
+Installed-Size: 13
 Depends: kloudos-installer
 Filename: ./kloudos-installer/kloudos-installer-session_0.0.1_amd64.deb
-Size: 2856
-MD5sum: aef6b329dbbc0c091580ff2a89fd2086
-SHA1: 88d5b534adc2cb3e6a1f0e9bcf341b394d8bc9a3
-SHA256: 88b5f987c423e2978ef7cce9bc3d181d3da98c8e0e3e45cacb77700e8982175f
+Size: 2368
+MD5sum: 6dbce6e216c6c65cbc5bf3404c430174
+SHA1: b8a224a6a044d1da8c3a00459c2bb1db5defecf5
+SHA256: 7f25412410fd9e1fac7ad7eca640ecbba212bd49a0c03f2d8ae18892b7342032
 Section: utils
 Priority: extra
 Homepage: https://github.com/kloudos/installer
