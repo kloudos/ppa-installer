@@ -51,13 +51,13 @@ Source: kernelstub
 Version: 0.0.1
 Architecture: all
 Maintainer: Ian Santopietro <isantop@gmail.com>
-Installed-Size: 9
+Installed-Size: 10
 Depends: kernelstub, systemd
 Filename: ./kernelstub/kloudos-boot_0.0.1_all.deb
-Size: 2984
-MD5sum: 56685b314a51cc1bc2b440966e604b25
-SHA1: c6d4ba7b3569ecc13b62269f5b1b76eeac1c1e8d
-SHA256: 21e0b93fdb416c76e296a4e6766bd6c90aa0710537126d1ef8a1b1005282fc61
+Size: 3100
+MD5sum: c202619726d4f703b2b5402777c52de1
+SHA1: bcecedab407776b5201881f31cd6ddf07ad01d56
+SHA256: 5b7f44f6c710d7b2f8d6828920b49699c2f6f0bb0c153b41b32128595a236215
 Section: python
 Priority: optional
 Description: Boot package for KloudOS.
@@ -78,6 +78,59 @@ Priority: optional
 Homepage: https://github.com/kloudos/default-settings
 Description: default settings for the KloudOS desktop
  This package contains the default settings used by KloudOS.
+
+Package: kloudos-installer
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 5269
+Depends: gparted, libc6 (>= 2.14), libgee-0.8-2 (>= 0.20.0), libglib2.0-0 (>= 2.43.92), libgnomekbd8 (>= 3.6.0), libgranite5 (>= 0.5), libgtk-3-0 (>= 3.21.6), libpangocairo-1.0-0 (>= 1.14.0), libpwquality1 (>= 1.1.0)
+Recommends: kloudos-installer-session
+Filename: ./kloudos-installer/kloudos-installer_0.0.1_amd64.deb
+Size: 4363520
+MD5sum: 3a8ebe8134231a729a92bbf24e0d8e90
+SHA1: 386a77f040d86944fd6dbc62b57dd7098bed4367
+SHA256: b16237d25e44731a7238f71aefe0e7ae0db6e593f58587a64c04cf9b2e81cce1
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: kloudos Distribution installer.
+
+Package: kloudos-installer-casper
+Source: kloudos-installer
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 13
+Depends: casper
+Filename: ./kloudos-installer/kloudos-installer-casper_0.0.1_amd64.deb
+Size: 2244
+MD5sum: f305e49f58a83c200931258fc29926fd
+SHA1: 4c71065c3d1a4d7f9ec99c109ea429b94a01e501
+SHA256: 78eee39752b5984e324a482e0c3e722627d5a2d475494e0a7e8fd8e099334045
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: Autostart kloudos-installer in casper
+ Autostart kloudos-installer when running in a live system with casper
+
+Package: kloudos-installer-session
+Source: kloudos-installer
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Latha Guntaka <admin@kloudos.org>
+Installed-Size: 13
+Depends: kloudos-installer
+Filename: ./kloudos-installer/kloudos-installer-session_0.0.1_amd64.deb
+Size: 2368
+MD5sum: 6dbce6e216c6c65cbc5bf3404c430174
+SHA1: b8a224a6a044d1da8c3a00459c2bb1db5defecf5
+SHA256: 7f25412410fd9e1fac7ad7eca640ecbba212bd49a0c03f2d8ae18892b7342032
+Section: utils
+Priority: extra
+Homepage: https://github.com/kloudos/installer
+Description: Dedicated installer session
+ Launches kloudos-installer in a dedicated session.
 
 Package: libdistinst
 Source: distinst
