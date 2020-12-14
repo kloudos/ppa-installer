@@ -30,38 +30,6 @@ Priority: optional
 Homepage: https://github.com/pop-os/distinst
 Description: Distribution Installer CLI
 
-Package: kernelstub
-Version: 0.0.1
-Architecture: all
-Maintainer: Ian Santopietro <isantop@gmail.com>
-Installed-Size: 83
-Depends: python3:any, efibootmgr, python3-debian, util-linux
-Recommends: python3-systemd
-Filename: ./kernelstub/kernelstub_0.0.1_all.deb
-Size: 13620
-MD5sum: df5182fab8ec5813a53a125594b8939c
-SHA1: f128d00e6eb810025ac6cbb4ef5eb5707176749c
-SHA256: 03daedc468337c1a8b3005902f4ada81eb6bd00976200a898e79bc7cabc10fbe
-Section: python
-Priority: optional
-Description: Automatic kernel efistub manager for UEFI
-
-Package: kloudos-boot
-Source: kernelstub
-Version: 0.0.1
-Architecture: all
-Maintainer: Ian Santopietro <isantop@gmail.com>
-Installed-Size: 10
-Depends: kernelstub, systemd
-Filename: ./kernelstub/kloudos-boot_0.0.1_all.deb
-Size: 3100
-MD5sum: c202619726d4f703b2b5402777c52de1
-SHA1: bcecedab407776b5201881f31cd6ddf07ad01d56
-SHA256: 5b7f44f6c710d7b2f8d6828920b49699c2f6f0bb0c153b41b32128595a236215
-Section: python
-Priority: optional
-Description: Boot package for KloudOS.
-
 Package: kloudos-default-settings
 Version: 0.0.1
 Architecture: all
