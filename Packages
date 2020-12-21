@@ -62,23 +62,6 @@ Section: python
 Priority: optional
 Description: Boot package for KloudOS.
 
-Package: kloudos-default-settings
-Version: 0.0.1
-Architecture: all
-Maintainer: Latha Guntaka <admin@kloudos.org>
-Installed-Size: 65
-Depends: dconf-gsettings-backend | gsettings-backend, base-files (>= 10), libglib2.0-bin, gnupg, software-properties-common
-Filename: ./kloudos-default-settings/kloudos-default-settings_0.0.1_all.deb
-Size: 13316
-MD5sum: fc5492365dbdc34be7b24ae70cf3c087
-SHA1: 706f141ef749a6b87b7cfe1fe78c7f114ae2816d
-SHA256: a96a59ea3b5ca8be9820f048ea3d24a33108a88157b02d1d7ee75944eeebfbbb
-Section: x11
-Priority: optional
-Homepage: https://github.com/kloudos/default-settings
-Description: default settings for the KloudOS desktop
- This package contains the default settings used by KloudOS.
-
 Package: kloudos-installer
 Version: 0.0.1
 Architecture: amd64
