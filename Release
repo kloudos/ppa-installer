@@ -1,7 +1,7 @@
 Architectures: i386 amd64 all
 Codename: cheetah
 Components: main
-Date: Fri, 25 Dec 2020 08:20:31 +0000
+Date: Fri, 25 Dec 2020 10:59:03 +0000
 Description: KloudOS 0.0.1 version
 Label: KloudOS
 Origin: kloudos
@@ -9,17 +9,17 @@ Suite: alpha
 Version: 0.0.1
 MD5Sum:
  87e6a77a3e4d932a039839916038356f             6572 Packages
- 4658d996745a18f3287d763d4c5ea211             2121 Packages.gz
- b8ba7d0cc10b056bfad0738afdfd9eca              197 Release
+ 822fee7202ec50f734140af99cc80179             2121 Packages.gz
+ 174809813344172c9d43ba92e984c6f9              197 Release
 SHA1:
  b5ff87a4f6a545b4d595f55c5e7737f21ddaa7ad             6572 Packages
- 4a6475749dec7d2cca18b3dba3914b642ff72d68             2121 Packages.gz
- 96cf565e10e2520af1b28bcef9f4a5eda7182c63              197 Release
+ 5e41109052ed03be3e281fcb3e0e7bd128d28111             2121 Packages.gz
+ 7e2234950e4243e4361bd3c48774badcbe28d7ce              197 Release
 SHA256:
  6a69a50ddba1b9932034cc1d8e55d4215e80108301cd035ae82d2ca58cef7613             6572 Packages
- 01085bc9687e99ff21252da10ec361a6b85999b769ce2d915bf0419a8a5ea1b4             2121 Packages.gz
- 80f6d9d0a6421a61f95fa734c049abd0d8690c2b159d227dd48e6e8996e9321f              197 Release
+ 24a41bc4362f6575d59699ef9f87949bd373ff6d0ef1c01767e4e2c12e9476cf             2121 Packages.gz
+ 1cf2256b710d18537e738359aeda593a12bfa5ee5bb3035e2771234df0fd2c22              197 Release
 SHA512:
  2844319ad678ae5a57d79e3bf4ef7366b9c588a96a8b03ed1ee55a51ce40911b536a6174349a931e1f30d6142b30cce0e643173eb2d40e55951ae27fe5fd0d3e             6572 Packages
- 112e88c50bb13a3674c18937a02262a6459db34c5aa306ab414c0b8aeefdb6d221e73946f37515e18305df056b51e77c1265447e5ef15350f89fcfaea02a54e7             2121 Packages.gz
- cf528ac58430b0e5d7dc0d4073f7581edf90c94e793217d33abadee89b7d900a7d199345538400de44aa8c027b0bb9cc4f619d7ab87349afd4584278d9f04cac              197 Release
+ 97003930f4f5266bc3031e3bda131a3b2be89bbf497607c8812e5b9e7efcbdd75af01d677fbbd5f9f2d6b98b856ce1ea9366eb2b5fbe5b7a9b3c14b3a7261738             2121 Packages.gz
+ 0e78d1ba5b1d3ae006d60750a559646b25c7ccf361d267c7447ed52ce39f26c7d17a9ddbb14851c70eb83f56484e184e1673785d182ca2ed39a955cf26ac17c4              197 Release
