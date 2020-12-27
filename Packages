@@ -140,10 +140,10 @@ Maintainer: Jeremy Soller <jeremy@system76.com>
 Installed-Size: 4916
 Depends: apt, btrfs-progs, coreutils, cryptsetup, dmsetup, dmraid, dosfstools, e2fsprogs, f2fs-tools, fatresize, gettext, grub2-common, kpartx, kpartx-boot, libparted-fs-resize0, locales, lvm2, mount, ntfs-3g, parted, rsync, squashfs-tools, systemd-container, util-linux, xfsprogs
 Filename: ./distinst/libdistinst_0.3.2-1_amd64.deb
-Size: 1146420
-MD5sum: ba6f778953fdd57281fee295c0e0e5a3
-SHA1: 41c7bb408d0d77cfadc6fbbee4f9257f60420d2f
-SHA256: 736a6b4e7963a619f3613d002f65cba3a342c9a414047fcb21f9aae6272d8ee0
+Size: 1146240
+MD5sum: deeb80e990da289cf716190556c1a3db
+SHA1: 0abb15665ebf97a9d511e5ae10f65c26c361ee0f
+SHA256: 32037f08a56a4a70d41b5be839e3af8188ee6fc2a2efe7d15371252d15da09f6
 Section: admin
 Priority: optional
 Homepage: https://github.com/pop-os/distinst
