@@ -4,41 +4,41 @@ Hash: SHA512
 Architectures: i386 amd64 all
 Codename: cheetah
 Components: main
-Date: Thu, 31 Dec 2020 08:02:28 +0000
+Date: Thu, 31 Dec 2020 09:50:04 +0000
 Description: KloudOS 0.0.1 version
 Label: KloudOS
 Origin: kloudos
 Suite: alpha
 Version: 0.0.1
 MD5Sum:
- 041d50337a7938dbae224bc092ea1294             6571 Packages
- 9e5f59354748c73ea277c1faa21536e0             2126 Packages.gz
- b09dbfaa51165a95769ab14ea48e1a36              197 Release
+ d7727d20df0c2dabb89bd43c683f3e7e             6571 Packages
+ e1d8151c88cf30969f1419f348465d85             2126 Packages.gz
+ b9a38e80263003455d63abff1418fca7              197 Release
 SHA1:
- 5160a275bb9d4884dcf95017891ee8d791f57ed7             6571 Packages
- 5ea9867bf126f0272bc6ca57ac32d9ebb4331d72             2126 Packages.gz
- f541031040130ce5c07663a576d579bdf554ae3c              197 Release
+ 1fe138dac85091151f36c2d139b098a1d42b38bf             6571 Packages
+ 30b931f595a8440b67c9f29f17a3f4096105810c             2126 Packages.gz
+ e2d5720b134d85cc262fcd06f0599c53a7041396              197 Release
 SHA256:
- 8730c82c133f67b62b5f573aba666327305991f166dc62774845e3d39ec51e2a             6571 Packages
- 9d5363a1bef4fc6e279dd18bb473ba72d8771b38a08b23dfd305ef55b108d5ec             2126 Packages.gz
- 84d94ad9140b4651911a6babbd2347b7af8ef740f8b1454cb991c50b95575ade              197 Release
+ fb75824cfd9b437367873848cf15c169c5063619a0e5f27d87d4677c16292b6a             6571 Packages
+ 5b7bf416bd1f8316083aa4e62053699b4bf62e3b6bbefd0e97d9114970221a93             2126 Packages.gz
+ 63dddb56bb2b8132300e070e0dfd81f81aed0a1802ca6cd69619a3a714c38199              197 Release
 SHA512:
- 61b42e3d3abec75d4dfeb8892601b8d4394d5290dc78ccd401cae227f56380fac80ee54e701d62b1108383b65fff8c71f171024e07f80024b3b2217ab25f4f30             6571 Packages
- cdfa6a2f41769c94972a39c4df587a95a27476d00747f08fbcc57e2bec348ca27a3c2f290ec326db3f517226cb10c3b35d33e568ed9b16080ca68cad16ab4c3e             2126 Packages.gz
- a5a62aac5aff0e5542d600e392b31f95fb39a38d568cfbe07a0866d868ed48a441b996bef9aed7ea7703f86b20d44524aa3a3b61545752291fcb4e2a19c0dd67              197 Release
+ bc72d7adbdf00b04fd5a548aa5b956703055b0a45b4395756f2191e0b8cdc603e31f56675c1cda6e2ced8576c7baf40265942c59543d109c10202f872b0ee42f             6571 Packages
+ 7004e8e99b63795f6e6c76cacaf8af00d256eca738c1bacb4917411fcb6c2210c2fa30af40e4ffcd904abd9291d7fc7b585987378da7c4a5761743ce64c2a452             2126 Packages.gz
+ 7af6bf385e9ffcee29b4593ca85af5b369163164ac808d6c6299ec1831c7aa8e613ecdad2055dac9e86688e78424fa7ee51c750665419a9c40f4ce41b288615b              197 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/thZQACgkQbkUlJ6xn
-A6qaEhAAopHnOmOyqiaWCXZD8ToSuLP8G0rs9vPwG6IHo82V3obUItLkZKXIN1ho
-d0PYnRgdV6pjdkUgctRB5RzPogRsctEOOy8uj1hyFB2rCsrUzJNqP9WnAL2YjZaH
-f859iCrDMJfnuvqQKW9PmR6ywVCE7LNaOkqwlnVrulQhBl6YH6noVHQl7eH4n+P4
-UunXpKPMv9DjDljVGdk4tAhYm3exw/oUHexEYHurCUNSAVu8p1pCsFypQnIF3P7P
-LCW4lmkuFLU6C/B8rp1X1h3OybdpA+zxeg5dN6NZd9UEnUMWhK3SKz8dBLkChNE4
-c+QR6prjjiZAu1k7GB2+sbrQtVUxg8N9SWBnpLkZGRsvjg7UKWgY8vGhuMdeWP6i
-QK63i+MKIMNY/UgURagywk+IrgBpnRZsvTIHna1z6utuY39n1w5j8khb3/WpSqPw
-3IY2t823TLyG2+vpFkq3t1C/2J+f0hIjtmPQgy1eV5v1XGNbFFWAnw9m4sBman/O
-guYTLBi4ZAYg8SvN8J0sh8caQxpfO88LJcyJQhGoe+hlNuk0dH+PkczLPfOQXupw
-fM2Md2P5k8FSS3uZRbLbknAfSVzgjBLx4urynjaLo7TOtf5LHnNoXWdY11k0S3C3
-eeBMPbIIlmRvNmWmrDL0l25CcUAJZq3ponWgTI0yzIyk8ARFaV4=
-=L7D7
+iQIzBAEBCgAdFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/tnswACgkQbkUlJ6xn
+A6qTVw/+J8i6O6TXjHc9R5Dvo4PdViLSFVZH7nEc3hSHMEc7CRnxAYwNDsBHXCwq
+y/a/xZIUOflmejiQTBU98oPS4LLw5002hK9HNk4xfX4QPBd/F5e/2y3KJooeWNID
+KBbC8Pc4gJnasnRtebmEqKCQB/DxsrTnSwWV40OuXT/DizLzNZBU7JkNgjDx+EkO
+DXVtR8WBU5pFi7wokMKiuxKNl1XIJukAVBFh4E3nwl97Wu95RyEoIP6bNPOc3PJT
+k385E3wHNkzLDYQk+haNrR0OjwBtbHj5qiej3yyLHZ4TelIMag4W3brIWyJWqnYA
+4YVGD+kgRjQUB6RGuFviECyXGnE56Kh14cA5+c1IWP5fUfyVljMQs/K74mOrslh1
+4GVhx7YF2GDKqiLMkOKlolfmmE16dmggHqFB0+Ofz7IA/kOmp39yk6hWF9lkZ7BO
+ym56JS+PBxDQ79iD4X5gNne3HePeyU+hhue+vhMugpcKu8y19Z0X+dMLAZ9VFBu5
+C4DnPwkLvP0S8I1sqeFdKWex4f8hYsZXidPzNsb26Ur0X/wHFCHtAPT9wOBp5ZcQ
+pS+Yg/QIHvH0n7n8jtXj/IhA+Yq6TouHCR0o8L5l2cuwxmoxiNOqUswtArF3wl8a
+6EA5C5xVtAvvduI+RzSvcVQF/Sz/bpBNp3RXCp2jWpeimZ3iNHg=
+=YoeI
 -----END PGP SIGNATURE-----
