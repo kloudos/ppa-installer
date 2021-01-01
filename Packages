@@ -21,10 +21,10 @@ Maintainer: Jeremy Soller <jeremy@system76.com>
 Installed-Size: 3680
 Depends: libdistinst (= 0.3.2-1)
 Filename: ./distinst/distinst_0.3.2-1_amd64.deb
-Size: 1000116
-MD5sum: ede0cbf3869cbbefe7f0e7be4089c8a0
-SHA1: 569b7b5285c36ad026d18f199c96467913714be4
-SHA256: 3f877ae41d49593c5e6f3bdf448cf17bb70ed781f757b17f85feace938f038a5
+Size: 1000112
+MD5sum: f551d65ebb372d8d060e82445f4076fd
+SHA1: 533681707927376dcf25b2be3418963f5b14a643
+SHA256: ace2e0f7c008c4e29ae8f6fd8933f03dd11c9791948a69f3f8e4a3980d26c216
 Section: admin
 Priority: optional
 Homepage: https://github.com/pop-os/distinst
@@ -140,10 +140,10 @@ Maintainer: Jeremy Soller <jeremy@system76.com>
 Installed-Size: 4916
 Depends: apt, btrfs-progs, coreutils, cryptsetup, dmsetup, dmraid, dosfstools, e2fsprogs, f2fs-tools, fatresize, gettext, grub2-common, kpartx, kpartx-boot, libparted-fs-resize0, locales, lvm2, mount, ntfs-3g, parted, rsync, squashfs-tools, systemd-container, util-linux, xfsprogs
 Filename: ./distinst/libdistinst_0.3.2-1_amd64.deb
-Size: 1146796
-MD5sum: 167f56705ced9d46c0b4306fd48536a3
-SHA1: 70441683ba9c5b6c45c33026884aaeb713b117e5
-SHA256: 1dd01e86e4c75d8cfa0d3ad7898caad60d07bb723f8f0518f31b7a5220212146
+Size: 1146120
+MD5sum: f2e6386ff40967855553ba2d27d06fd1
+SHA1: fa2f8ec85f9058e9a248c81b01dc9d8a0895ad53
+SHA256: 8393167cfc07c22282184740c36a9710ef27978d92f6946bc240be8104acced5
 Section: admin
 Priority: optional
 Homepage: https://github.com/pop-os/distinst

@@ -15,26 +15,26 @@ Package-List:
  libdistinst deb admin optional arch=amd64
  libdistinst-dev deb admin optional arch=amd64
 Checksums-Sha1:
- 7977683dd8f79434b124e12abaf24c9286086965 126516 distinst_0.3.2-1.tar.xz
+ 2d603fcae887325a6f0bcbebabdaaf866098eb0f 126388 distinst_0.3.2-1.tar.xz
 Checksums-Sha256:
- ef438089d0980dcb8ea8fab0ce3e6db67f57f03ccb86e79aa31dc3e54c2e61ed 126516 distinst_0.3.2-1.tar.xz
+ f4b4c7e189cbecd7e19c85fd3da0ef325b0dcc182b8d9de6ab1004ff3837d8db 126388 distinst_0.3.2-1.tar.xz
 Files:
- cf6c89d1bab801bce38df894f191c573 126516 distinst_0.3.2-1.tar.xz
+ 9a26ebf93ca147d735d250e22dc22a9f 126388 distinst_0.3.2-1.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/ul80SHGFkbWluQGts
-b3Vkb3Mub3JnAAoJEG5FJSesZwOqoCwP/Axli6KZSi+iCQAkML9ft31zhh5CFgII
-/Vxepjoc9MqKtvygVWBJl05NydgcTlvAVyRkrc1qV7wrU0KSoMQSgZiwoUk93RWQ
-k6xF+uR2q11mXcYzMFE+BeRMHGXTRbacTCkgJDZaRfTiE13zLK5gsp2X6Bq9xLHt
-qZAReo6DJxTZ75Rj1bvMuswdXljDmUkFTn/rAnpePZCRJxERIcuhOVx4DqVFrZj+
-iDyY84iEn/8Zn1vShcw7AgbsmO6VSJy0U13Xu/W74KjDjgszX6bV3bD6sqmBjZQ3
-MA+tnxsJ/h1s408oJ0bp56GynP85IPsmisshj/RHuKbQl3f04t7YGL0NexTb9gh8
-/JHRhw1qCLhGTZdexfAKDNni8PkmPGfbTEiyku2iQEUrCQT+bL9/f8lpoQdn4Hsg
-OK/+/CMmgGzFvd7gmVwXL37/KwAnP/DlEIP7+tUmi0MdIYpqiSD9SX7ZOptp3SH/
-+mNtitPrwxqzFirHo0VttlQ+DAi89NMFmshFImgZCGOCnpaYEK4/S2T8BK5qf2tG
-iedNGyV6IJ413qPmsrVfBi0WwjopILrexpCnEk8uztpZtl8STPx2NUPc9SK97UYi
-ZgIhOSofpKSlm1RUiqN64xx/x4Grr+3uzI73KzBJznUj0jzEjcrXuB4oCBkktMso
-3vsLg0+XOkt9
-=4RoH
+iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/upvcSHGFkbWluQGts
+b3Vkb3Mub3JnAAoJEG5FJSesZwOqXR4P/3jMg+ARqDBtBYtTe+69HjSuA6PZIWde
+FjVyXBguAYwmBBx0YwfexNfYXC+xlpzW2n236NQn74a5PCHBpnlJPn+oTgCwOeag
+96LQzHPVwyhwUbz97ba8yVhIz6Hxtjj5kb2wfOTENffKEgLs2adMb7uSGEXSPCzH
+TU5fgfrXdx5cenXt+4xTAqMGpurQHERGzw6iZ0FO608WansqxR013w3udakkBUxh
+XF/8de85g/YQmzf327YklS4dQg4ra/4EwfCV4l5+EGMRHjace1D6dVnuUVj+j6a4
+Lz1AwZuxfqdwaatRWEgDfBe2najN/BnKIANK0xebBhIKLKDx3mgMvMAImcFkP6LN
+7InQEj9PgAUHeS2acSx2legqcr4dFLNy4gKpd8n06RsuB6JGYe6oNBlogLLiUjXW
+NPycPOYikEe0jnt+Njyr/d8fC7/MQrJdTikzbIDwjtfJdjlpenawIAYEwW9Ax1vi
+lm/Alch0f4Zuchc3vrtioL5NNnZ8uSR6RJzmZNuG505yAz486d4vxW5n7p4Mf94j
+heb2y30aRaybC379/fHay7hcS5ut/o+7PtI5PEArOhbA8Yb8l1VmKI8MJ6OLxTP5
+qqHZgF3HzWGXjNmA5QTMEIj+3jnY3bw5OulcnlzUHcILv9EwSPsFZ6QdLtkp5fga
+eNoqag6VTtoY
+=zVra
 -----END PGP SIGNATURE-----
