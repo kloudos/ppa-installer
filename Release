@@ -1,25 +1,25 @@
 Architectures: i386 amd64 all
 Codename: cheetah
 Components: main
-Date: Fri, 01 Jan 2021 01:45:06 +0000
+Date: Fri, 01 Jan 2021 03:32:40 +0000
 Description: KloudOS 0.0.1 version
 Label: KloudOS
 Origin: kloudos
 Suite: alpha
 Version: 0.0.1
 MD5Sum:
- a07a97f243e8c3e0cf137a3ab897f5d1             6572 Packages
- 8cb1aca78b03fa7054c4440bfadda1da             2124 Packages.gz
- b5719874294d30a726fb5b37edd18f53              197 Release
+ 7a53928dd64139cadafe3b312dc2cbb2             6572 Packages
+ 360a9e883f63e696bb9d70f7388f74e8             2129 Packages.gz
+ b5100c77bc0adf779f3ed4a0806afce6              197 Release
 SHA1:
- 71cb1a47836657291510b3a9fe5149732f2a1122             6572 Packages
- 2805021fc9bf40e3d5f2f961c29ae3a01fc950b1             2124 Packages.gz
- a810383748676367dd81c33b13ab111e3ba9645d              197 Release
+ a0a289676002c43797204a2702e5afdd82550938             6572 Packages
+ 74f217cb282486c27705ea113131409862e38c6e             2129 Packages.gz
+ 495bd3b1550f2594785a07c8d72fa2d6a98e5f20              197 Release
 SHA256:
- 5689986b6e3eff98aa38976ad052b2a0ae269aa95b052d8e64b2fa62b52b840d             6572 Packages
- 6de2b3dcf413adc0b2ad590455467a0277231ae4059e4d226eaa7af8532940ba             2124 Packages.gz
- 8dcff1b4487f67625527c9c225c017e4e587554f1e414c8ba67da0020c6cffb1              197 Release
+ 2eb4a8bc3adcdc5002e02fb1e7c307110c6755daf49d33312ed1c9661a822524             6572 Packages
+ b68803a2564adaa3781abdd34c0a16cdcef467402aa4ce19c574e4203285f633             2129 Packages.gz
+ 98a8fd797ac402ee204892e29642da19e679ae10ae49c0260fb0766caf34e1ed              197 Release
 SHA512:
- e298655e4940d9dcff0ceb5d0d3d3306b72493c7f1f95933095082eb17e16adbb4c705a133f597a8c6bb52b995061679adc14050b30408b22128c60f5a5bf0b9             6572 Packages
- 813a343bbebc4423e095862b53e3e6bce584f0a067cfa1c20799912863b78eca20d3cc344cc1cbdae4f1051f04e1033be65fd068871ae057e4e69616c60dae99             2124 Packages.gz
- fd7c805e404f23b5364221ea1aab13edb51ac1ca8c55b91c9296f4b0ef562565d26ca8c74023879969ca90c513e3d96abee06020e88d48ad93e2b928db7eabd2              197 Release
+ 8d1c6a4e660b5c1c01c74a76bfc4740b7a34d0208b8d3a7480642e2695e9c0ee60173238fcbec18b59b2e5882a04efc23d24976e0493c8842627c5e8e16c9e33             6572 Packages
+ 317bf919ac6df308270412acd380162057883d99ad4d8dc82e60acaf8d6be6ad7d6ddb3d49f6d553f85cf2f18add8c3a98b36898a7cab64e7a3c2d1bfde08942             2129 Packages.gz
+ 797b80f3b6004df5780262bfd610d17a23c3c4aafbc93869d3d40dcca17230e185556eff4e916dbb826fc9f977e081716bba5d294e0c5c2ec0cd29ab7ebe1756              197 Release
